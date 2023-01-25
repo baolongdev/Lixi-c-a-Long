@@ -1,8 +1,7 @@
 # Lixi cua Long
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4L8EhlDAwyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## How to Play
+* [Video tutorials](https://youtu.be/4L8EhlDAwyg) 
 * Use the arrow keys your maneuver your hand out of the way.
 
 ## Installation
