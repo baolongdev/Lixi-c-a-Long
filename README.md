@@ -1,7 +1,7 @@
 # Lixi cua Long
 
 ## How to Play
-* [Video tutorials](https://youtu.be/4L8EhlDAwyg) 
+* [Video tutorials](https://youtu.be/4L8EhlDAwyg) or [Play online](https://replit.com/@12-Le-Bao-Long/LixiGame?v=1)
 * Use the arrow keys your maneuver your hand out of the way.
 
 ## Installation
